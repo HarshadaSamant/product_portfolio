@@ -290,7 +290,7 @@ input, select, textarea {
 		/* accordion */
 .accordion {
   max-width: 1170px;
-  margin: 40px auto 0;
+  margin: 0 auto 0;
   text-align: left;
 }
 
