@@ -322,7 +322,7 @@ input, select, textarea {
   transform: translateY(-50%);
   right: 10px;
   transition: all 0.3s ease;
-  font-size: 24px;
+  font-size: 44px;
 }
 
 .at-title.active:after {
