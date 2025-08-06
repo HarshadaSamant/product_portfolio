@@ -393,6 +393,10 @@ input, select, textarea {
 		box-sizing: border-box;
 		align-items: stretch;
 	}
+	
+	.row.product_title {
+	  align-items: center;
+	}
 
 		.row > * {
 			box-sizing: border-box;
